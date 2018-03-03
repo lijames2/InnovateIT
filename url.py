@@ -19,5 +19,39 @@ def parse_url(venue, time, date):
     with urllib.request.urlopen(data) as response:
         page = response.read()
 
+def get_url_data(place, date, time):
+    append = False
+    results = ""
+    if place == "East Side Dine-In":
+        with open("east-dining.txt") as f:
+            lines = f.readlines()
+            for i in range(0, len(lines)):
+                items = lines[i].split()
+                if len(items) == 1 and lines[i].strip() in valid_times and lines[i].strip() != time:
+                    append = False
+                if append:
+                    if len(items) == 2:
+                        results += items[0] + " Calories: %d" %int(items[1]) + "\n"
+                    else:
+                        results += " ".join(items[0: len(items) - 2]) + " Calories: %d" %int(items[len(items) - 1]) + "\n"
+                if lines[i].strip() == time:
+                    append = True
+    elif place == "West Side Dine-In":
+        with open("west-dining.txt") as f:
+            lines = f.readlines()
+            for i in range(0, len(lines)):
+                items = lines[i].split()
+                if len(items) == 1 and lines[i].strip() in valid_times and lines[i].strip() != time:
+                    append = False
+                if append:
+                    results += " ".join(items[0: len(items) - 2]) + " Calories: %d" %int(items[len(items) - 1]) + "\n"
+                if lines[i].strip() == time:
+                    append = True
+    if len(results) > 0:
+        return results
+    return "Sorry, we did not find any results for that :("
+
 if __name__ == "__main__":
-    parse_url("Admin Cart", "Breakfast", "03/02/2018")
+    #parse_url("East Side Dine-In", "Breakfast", "03/02/2018")
+    valid_times = ["Breakfast", "Brunch", "Lunch", "Dinner", "Midnight"]
+    print(get_url_data("East Side Dine-In", "03/03/2018", "Midnight"))
