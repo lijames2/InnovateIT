@@ -1,12 +1,12 @@
 import random
 from flask import Flask, request
-from url import parse_url
+from url import get_url_data
 from pymessenger.bot import Bot
 
 app = Flask(__name__)
 f = open("infos.txt")
-ACCESS_TOKEN = f.readline()
-VERIFY_TOKEN = f.readline()
+ACCESS_TOKEN = f.readline().strip()
+VERIFY_TOKEN = f.readline().strip()
 f.close()
 bot = Bot(ACCESS_TOKEN)
 
@@ -29,7 +29,7 @@ def receive_message():
                 #Facebook Messenger ID for user so we know where to send response back to
                 recipient_id = message['sender']['id']
                 if message['message'].get('text'):
-                    response_sent_text = get_message(output)
+                    response_sent_text = get_message(message['message'].get('text'))
                     send_message(recipient_id, response_sent_text)
                 #if user sends us a GIF, photo,video, or any other non-text item
                 if message['message'].get('attachments'):
@@ -53,10 +53,20 @@ def get_message():
     return random.choice(sample_responses)
 
 #Return the available data based on query
-def get_message(output):
-    #response = parse_url(output)
-    response = get_url_data(output)
-    return response
+def get_message(message):
+    output = message.split()
+    print output
+    if len(output) < 3:
+        return "Not enough arguments"
+    else:
+        place = ""
+        for i in range(0, len(output) - 2):
+            place += output[i] + " "
+        print place.strip()
+        print output[len(output) - 1]
+        return get_url_data(place.strip(), output[len(output)- 2], output[len(output) - 1])
+    #response = get_url_data(output)
+    #return response
 
 #uses PyMessenger to send response to user
 def send_message(recipient_id, response):
