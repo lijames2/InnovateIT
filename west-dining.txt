@@ -1,0 +1,555 @@
+03/03/2018
+  Brunch
+  Tater Tots 170
+  Cheese Omelet 270
+  Ham and Cheese Omelet 250
+  Breakfast Burrito 420
+  Baked Herb Chicken 180
+  Sauteed Kale 110
+  Steamed Brown Rice 120
+  Corned Beef 140
+  Sriracha Fries 180
+  Breakfast Quiche 240
+  Roasted Brussels Sprouts 70
+  Roast Beef 200
+  Quinoa, Zucchini, and Sweet Potato 460
+  Italian Green Beans 40
+  Onions and Mushrooms 50
+  Roasted Acorn Squash 70
+  Couscous 110
+  Roasted Garlic Marinara Sauce 5
+  Scrambled Eggs 190
+  Scrambled Egg Whites 60
+  Buttermilk Pancakes 420
+  Breakfast Potatoes 100
+  Sausage Link 140
+  Turkey Sausage Patty 50
+  Chorizo and Potato Frittata 650
+  Cubed Watermelon 10
+  Cubed Cantaloupe 15
+  Cubed Honeydew Melon 15
+  Red Seedless Grapes 25
+  Low Fat Plain Yogurt 80
+  Low Fat Vanilla Yogurt 100
+  Low Fat Strawberry Yogurt 110
+  Whole Milk Greek Plain Yogurt 70
+  2% Low Fat Cottage Cheese 90
+  Hard Boiled Egg 70
+  Homemade Granola 210
+  Cheerios 110
+  Rice Chex Cereal 100
+  Honey 60
+  Grape Jelly 60
+  Strawberry Preserves 60
+  Syrup, Pancake 90
+  Banana 70
+  Orange 60
+  Gala Apple 110
+  Whole Wheat Bread 80
+  White Bread 110
+  Cream Cheese 100
+  Vegetable Cream Cheese 80
+  Strawberry Cream Cheese 100
+  Butter 200
+  Grape Jelly 80
+  Mini Plain Bagel 100
+  Mini Whole Wheat Bagel 90
+  Mini Cinnamon Raisin Bagel 110
+  Mini Poppy Seed Bagel 100
+  Mini Sesame Bagel 100
+  Mini Egg Bagel 100
+  Oatmeal 50
+  Grits 150
+  Light Brown Sugar 50
+  Ground Cinnamon 20
+  Raisins 25
+  Miso Vegetable Stock 50
+  Low Sodium Chicken Broth 25
+  Lo Mein Noodles 70
+  Soba Noodles 80
+  Cubed Tofu 45
+  Poached Chicken Breast 90
+  Fresh Diced Red Bell Peppers 10
+  Fresh Julienne Celery 0
+  Fresh Steamed Broccoli Florets 10
+  Fresh Sliced Green Onions 0
+  Toasted Sesame Seeds 15
+  Sriracha Hot Chili Sauce 0
+  Sweet Thai Chili Sauce 35
+  Vanilla Pudding 160
+  Chocolate Pudding 170
+  Strawberry Jello 110
+  Orange Jello 110
+  Brownie 350
+  Brownie and Marshmallow Parfait 980
+  Plain Crumb Cake 250
+  Lemon Danish 280
+  Blueberry Danish 270
+
+  Dinner
+  Hamburger on Bun 300
+  Cheeseburger 350
+  Turkey Burger 380
+  Falafel Pita Pockets 80
+  Grilled Chicken Sandwich 310
+  Grilled Cheese 250
+  Beef Hot Dog 400
+  French Fries 120
+  Chicken Quesadilla 410
+  Taco Seasoned Fries 130
+  Basmati Rice 110
+  Smokey Grilled Pork 200
+  Pico de Gallo 15
+  Sliced Genoa Salami 190
+  Sliced Ham 200
+  Sliced Roasted Turkey Breast 60
+  Sliced American Cheese 100
+  Cheddar Cheese 110
+  Sliced Swiss Cheese 110
+  Egg Salad 100
+  Classic Chicken Salad 90
+  Fresh Sliced Tomatoes 0
+  Fresh Sliced Lettuce 0
+  Rye Bread 220
+  White Bread 160
+  Whole Wheat Bread 150
+  Creamy Caesar Dressing 110
+  Russian Western Dressing 120
+  Yellow Mustard 20
+  Just Mayo 190
+  Organic Honey Mustard Dressing 90
+  Tuna Salad, Wheat Wrap 240
+  Turkey, Swiss, White Wrap 290
+  Hummus, Spinach, Feta, Tomato Wrap 230
+  Garlic Herb Baked Chicken 250
+  Cajun Codfish 170
+  Yucca, Garlic, Lemon 340
+  Fried Plantains 150
+  Spicy Carrots and Broccoli 35
+  Baked Macaroni and Cheese 300
+  Quinoa, Zucchini, and Sweet Potato 460
+  Italian Green Beans 40
+  Roasted Acorn Squash 70
+  Roasted Brussels Sprouts 70
+  Couscous 110
+  Roasted Garlic Marinara Sauce 5
+  Yakisoba Noodles 230
+  Brown Rice 110
+  Stir Fry Vegetables 70
+  Jasmine Rice 120
+  Beef and Broccoli Stir-Fry 170
+  Sweet and Sour Cabbage 130
+  Whole Wheat Penne Pasta 110
+  Farfalle Pasta 50
+  Tomato Basil Cream Sauce 60
+  Marinara 30
+  Alfredo Sauce 110
+  Baked Ziti Bolognese 280
+  Fresh Chopped Iceberg Lettuce 10
+  Fresh Chopped Romaine Lettuce 0
+  Fresh Grape Tomatoes 5
+  Fresh Thin Sliced Cucumber 0
+  Fresh Grated Carrots 10
+  Fresh Sliced Red Bell Pepper 10
+  Fresh Sliced Cremini Mushrooms 5
+  Black Beans 25
+  Dark Red Kidney Beans 35
+  Fresh Sliced Red Onion 10
+  Sliced Black Olives 35
+  Fresh Broccoli Florets 10
+  Blue Cheese Crumbles Dressing 60
+  Shredded Sharp Cheddar Cheese 60
+  Lemon Herb Grilled Tofu 640
+  Grilled Chicken 330
+  Italian Dressing 50
+  Balsamic Vinaigrette 80
+  French Dressing 130
+  Ranch Dressing 110
+  Buffalo Chicken 270
+  BBQ Chicken 110
+  Barbecue Chicken 140
+  Diced Ham 45
+  Cheese Pizza 390
+  Pepperoni Pizza 500
+  Pesto Chicken Pizza 530
+  Spinach Pizza 280
+  Cheerios 110
+  Rice Chex Cereal 100
+  Honey 60
+  Syrup, Pancake 90
+  Banana 70
+  Orange 60
+  Gala Apple 110
+  Whole Wheat Bread 80
+  White Bread 110
+  English Muffin 130
+  Whole Wheat English Muffin 120
+  Cream Cheese 100
+  Vegetable Cream Cheese 80
+  Strawberry Cream Cheese 100
+  Butter 200
+  Grape Jelly 80
+  Strawberry Preserves 60
+  Mini Plain Bagel 100
+  Mini Whole Wheat Bagel 90
+  Mini Cinnamon Raisin Bagel 110
+  Mini Poppy Seed Bagel 100
+  Mini Sesame Bagel 100
+  Mini Egg Bagel 100
+  Miso Vegetable Stock 50
+  Low Sodium Chicken Broth 25
+  Lo Mein Noodles 70
+  Soba Noodles 80
+  Cubed Tofu 45
+  Poached Chicken Breast 90
+  Fresh Diced Red Bell Peppers 10
+  Fresh Julienne Celery 0
+  Fresh Steamed Broccoli Florets 10
+  Fresh Sliced Green Onions 0
+  Toasted Sesame Seeds 15
+  Sriracha Hot Chili Sauce 0
+  Sweet Thai Chili Sauce 35
+  Vanilla Pudding 160
+  Chocolate Pudding 170
+  Strawberry Jello 110
+  Orange Jello 110
+  Fruit Flavored Jello 110
+  Chocolate brownies 350
+  Brownie and Marshmallow Parfait 980
+  Plain Crumb 250
+  Lemon Danish 280
+  Blueberry Danish 270
+  Midnight
+  Hamburger on Bun 300
+  Cheeseburger 350
+  Falafel Pita Pockets 80
+  Grilled Chicken Sandwich 310
+  Beef Hot Dog 400
+  French Fries 120
+  Sliced Genoa Salami 190
+  Sliced Ham 200
+  Sliced Roasted Turkey Breast 60
+  Sliced American Cheese 100
+  Cheddar Cheese 110
+  Sliced Swiss Cheese 110
+  Egg Salad 100
+  Classic Chicken Salad 90
+  Fresh Sliced Tomatoes 0
+  Fresh Lettuce Leaf 0
+  Rye Bread 220
+  White Bread 160
+  Whole Wheat Bread 150
+  Creamy Caesar Dressing 110
+  Russian Western Dressing 120
+  Yellow Mustard 20
+  Just Mayo 190
+  Organic Honey Mustard Dressing 90
+  Fresh Chopped Iceberg Lettuce 10
+  Fresh Chopped Romaine Lettuce 0
+  Fresh Grape Tomatoes 5
+  Fresh Thin Sliced Cucumber 0
+  Fresh Grated Carrots 10
+  Fresh Sliced Red Bell Pepper 10
+  Fresh Sliced Cremini Mushrooms 5
+  Black Beans 25
+  Dark Red Kidney Beans 35
+  Fresh Sliced Red Onion 10
+  Sliced Black Olives 35
+  Fresh Broccoli Florets 10
+  Blue Cheese Crumbles Dressing 60
+  Shredded Sharp Cheddar Cheese 60
+  Lemon Herb Grilled Tofu 640
+  Grilled Chicken 330
+  Italian Dressing 50
+  Balsamic Vinaigrette 80
+  French Dressing 130
+  Ranch Dressing 110
+  Buffalo Chicken 270
+  BBQ Chicken 110
+  Barbecue Chicken 140
+  Diced Ham 45
+  Cheese Pizza 390
+  Pepperoni Pizza 500
+  Macaroni and Cheese 200
+  Dark Red Kidney Beans 80
+  Steamed Broccoli 10
+  Buffalo Wing Sauce 5
+  Shredded Parmesan Cheese 20
+  Shredded Monterey Jack Cheese 25
+03/04/2018
+  Brunch
+  Tater Tots 170
+  Cheese Omelet 270
+  Ham and Cheese Omelet 250
+  Breakfast Burrito 420
+  Arroz con Pollo 370
+  Grilled Yellow Squash 15
+  Carved Top Round Beef 340
+  Strawberry Blintz 160
+  Peas and Carrots 70
+  Steamed Rice 290
+  French Fries 180
+  Grilled Ginger, Soy Tofu 480
+  Snow Peas Stir Fried 40
+  Braised Eggplant 100
+  Basmati Rice with Peas 100
+  Gingered Carrots 45
+  Hoisin Sauce 35
+  Scrambled Eggs 190
+  Scrambled Egg Whites 60
+  Buttermilk Pancakes 420
+  Breakfast Potatoes 100
+  Sausage Link 140
+  Turkey Sausage Patty 50
+  Chorizo and Potato Frittata 650
+  Cubed Watermelon 10
+  Cubed Cantaloupe 15
+  Cubed Honeydew Melon 15
+  Red Seedless Grapes 25
+  Low Fat Plain Yogurt 80
+  Low Fat Vanilla Yogurt 100
+  Low Fat Strawberry Yogurt 110
+  Whole Milk Greek Plain Yogurt 70
+  2% Low Fat Cottage Cheese 90
+  Hard Boiled Egg 70
+  Homemade Granola 210
+  Cheerios 110
+  Rice Chex Cereal 100
+  Honey 60
+  Grape Jelly 60
+  Strawberry Preserves 60
+  Syrup, Pancake 90
+  Banana 70
+  Orange 60
+  Gala Apple 110
+  Whole Wheat Bread 80
+  White Bread 110
+  Cream Cheese 100
+  Vegetable Cream Cheese 80
+  Strawberry Cream Cheese 100
+  Butter 200
+  Grape Jelly 80
+  Mini Plain Bagel 100
+  Mini Whole Wheat Bagel 90
+  Mini Cinnamon Raisin Bagel 110
+  Mini Poppy Seed Bagel 100
+  Mini Sesame Bagel 100
+  Mini Egg Bagel 100
+  Oatmeal 50
+  Grits 150
+  Light Brown Sugar 50
+  Ground Cinnamon 20
+  Raisins 25
+  Miso Vegetable Stock 50
+  Low Sodium Chicken Broth 25
+  Lo Mein Noodles 70
+  Soba Noodles 80
+  Cubed Tofu 45
+  Poached Chicken Breast 90
+  Fresh Diced Red Bell Peppers 10
+  Fresh Julienne Celery 0
+  Fresh Steamed Broccoli Florets 10
+  Fresh Sliced Green Onions 0
+  Toasted Sesame Seeds 15
+  Sriracha Hot Chili Sauce 0
+  Sweet Thai Chili Sauce 35
+  Vanilla Pudding 160
+  Chocolate Pudding 170
+  Strawberry Jello 110
+  Orange Jello 110
+  Brownie 350
+  Brownie and Marshmallow Parfait 980
+  Plain Crumb Cake 250
+  Lemon Danish 280
+  Blueberry Danish 270
+  Dinner
+  Hamburger on Bun 300
+  Cheeseburger 350
+  Turkey Burger 380
+  Grilled Chicken Sandwich 310
+  Grilled Cheese 250
+  Beef Hot Dog 400
+  French Fries 120
+  Bruschetta Burger 590
+  Cajun Spiced Fries 130
+  Lemon Chicken 380
+  Lyonnaise Potatoes 120
+  Roasted Yellow Squash 30
+  Sliced Genoa Salami 190
+  Sliced Ham 200
+  Sliced Roasted Turkey Breast 60
+  Sliced American Cheese 100
+  Cheddar Cheese 110
+  Sliced Swiss Cheese 110
+  Egg Salad 100
+  Classic Chicken Salad 90
+  Fresh Sliced Tomatoes 0
+  Fresh Sliced Lettuce 0
+  Rye Bread 220
+  White Bread 160
+  Whole Wheat Bread 150
+  Creamy Caesar Dressing 110
+  Russian Western Dressing 120
+  Yellow Mustard 20
+  Just Mayo 190
+  Organic Honey Mustard Dressing 90
+  Ham, Cheddar, Wheat Bread 240
+  Turkey, Swiss, White Wrap 290
+  Caprese Baguette 350
+  Turkey Gumbo 140
+  Potato Crushed Tilapia 350
+  Sauteed Kale, Garlic 60
+  Balsamic Grilled Eggplant 25
+  Basmati Rice with Peas 150
+  Baked Macaroni and Cheese 300
+  Grilled Ginger, Soy Tofu 480
+  Snow Peas Stir Fried 40
+  Braised Eggplant 100
+  Basmati Rice with Peas 100
+  Gingered Carrots 45
+  Hoisin Sauce 35
+  Yakisoba Noodles 230
+  Brown Rice 110
+  Stir Fry Vegetables 70
+  Jasmine Rice 120
+  General Tso's Chicken Breast 200
+  Hot and Spicy Eggplant 50
+  Whole Wheat Penne Pasta 110
+  Farfalle Pasta 50
+  Tomato Basil Cream Sauce 60
+  Marinara 30
+  Alfredo Sauce 110
+  Italian Four Cheese Macaroni 1200
+  Fresh Chopped Iceberg Lettuce 10
+  Fresh Chopped Romaine Lettuce 0
+  Fresh Grape Tomatoes 5
+  Fresh Thin Sliced Cucumber 0
+  Fresh Grated Carrots 10
+  Fresh Sliced Red Bell Pepper 10
+  Fresh Sliced Cremini Mushrooms 5
+  Black Beans 25
+  Dark Red Kidney Beans 35
+  Fresh Sliced Red Onion 10
+  Sliced Black Olives 35
+  Fresh Broccoli Florets 10
+  Blue Cheese Crumbles Dressing 60
+  Shredded Sharp Cheddar Cheese 60
+  Lemon Herb Grilled Tofu 640
+  Grilled Chicken 330
+  Italian Dressing 50
+  Balsamic Vinaigrette 80
+  French Dressing 130
+  Ranch Dressing 110
+  Buffalo Chicken 270
+  BBQ Chicken 110
+  Barbecue Chicken 140
+  Diced Ham 45
+  Cheese Pizza 390
+  Pepperoni Pizza 500
+  Pesto Chicken Pizza 530
+  Spinach Pizza 280
+  Cheerios 110
+  Rice Chex Cereal 100
+  Honey 60
+  Syrup, Pancake 90
+  Banana 70
+  Orange 60
+  Gala Apple 110
+  Whole Wheat Bread 80
+  White Bread 110
+  English Muffin 130
+  Whole Wheat English Muffin 120
+  Cream Cheese 100
+  Vegetable Cream Cheese 80
+  Strawberry Cream Cheese 100
+  Butter 200
+  Grape Jelly 80
+  Strawberry Preserves 60
+  Mini Plain Bagel 100
+  Mini Whole Wheat Bagel 90
+  Mini Cinnamon Raisin Bagel 110
+  Mini Poppy Seed Bagel 100
+  Mini Sesame Bagel 100
+  Mini Egg Bagel 100
+  Miso Vegetable Stock 50
+  Low Sodium Chicken Broth 25
+  Lo Mein Noodles 70
+  Soba Noodles 80
+  Cubed Tofu 45
+  Poached Chicken Breast 90
+  Fresh Diced Red Bell Peppers 10
+  Fresh Julienne Celery 0
+  Fresh Steamed Broccoli Florets 10
+  Fresh Sliced Green Onions 0
+  Toasted Sesame Seeds 15
+  Sriracha Hot Chili Sauce 0
+  Sweet Thai Chili Sauce 35
+  Vanilla Pudding 160
+  Chocolate Pudding 170
+  Strawberry Jello 110
+  Orange Jello 110
+  Fruit Flavored Jello 110
+  Chocolate brownies 350
+  Brownie and Marshmallow Parfait 980
+  Plain Crumb 250
+  Lemon Danish 280
+  Blueberry Danish 270
+
+  Midnight
+  Hamburger on Bun 300
+  Cheeseburger 350
+  Garden Burger 370
+  Grilled Chicken Sandwich 310
+  Beef Hot Dog 400
+  French Fries 120
+  Sliced Genoa Salami 190
+  Sliced Ham 200
+  Sliced Roasted Turkey Breast 60
+  Sliced American Cheese 100
+  Cheddar Cheese 110
+  Sliced Swiss Cheese 110
+  Egg Salad 100
+  Classic Chicken Salad 90
+  Fresh Sliced Tomatoes 0
+  Fresh Lettuce Leaf 0
+  Rye Bread 220
+  White Bread 160
+  Whole Wheat Bread 150
+  Creamy Caesar Dressing 110
+  Russian Western Dressing 120
+  Yellow Mustard 20
+  Just Mayo 190
+  Organic Honey Mustard Dressing 90
+  Fresh Chopped Iceberg Lettuce 10
+  Fresh Chopped Romaine Lettuce 0
+  Fresh Grape Tomatoes 5
+  Fresh Thin Sliced Cucumber 0
+  Fresh Grated Carrots 10
+  Fresh Sliced Red Bell Pepper 10
+  Fresh Sliced Cremini Mushrooms 5
+  Black Beans 25
+  Dark Red Kidney Beans 35
+  Fresh Sliced Red Onion 10
+  Sliced Black Olives 35
+  Fresh Broccoli Florets 10
+  Blue Cheese Crumbles Dressing 60
+  Shredded Sharp Cheddar Cheese 60
+  Lemon Herb Grilled Tofu 640
+  Grilled Chicken 330
+  Italian Dressing 50
+  Balsamic Vinaigrette 80
+  French Dressing 130
+  Ranch Dressing 110
+  Buffalo Chicken 270
+  BBQ Chicken 110
+  Barbecue Chicken 140
+  Diced Ham 45
+  Cheese Pizza 390
+  Pepperoni Pizza 500
+  Penne Rigate Noodles 90
+  Whole Wheat Penne Pasta 110
+  Alfredo Sauce 210
+  Roasted Garlic Marinara Sauce 10
+  Grated Parmesan Cheese 25
+  Fresh Diced Tomatoes 10
+  Sliced Black Olives 40

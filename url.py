@@ -21,7 +21,7 @@ def parse_url(venue, time, date):
         page = response.read()
 '''
 def get_url_data(place, date, time):
-    valid_times = ["Breakfast", "Brunch", "Lunch", "Dinner", "Midnight"]
+    valid_times = ["breakfast", "brunch", "lunch", "dinner", "midnight"]
     append = False
     results = ""
     if place == "East Side Dine-In":
@@ -29,7 +29,7 @@ def get_url_data(place, date, time):
             lines = f.readlines()
             for i in range(0, len(lines)):
                 items = lines[i].split()
-                if len(items) == 1 and lines[i].strip() in valid_times and lines[i].strip() != time:
+                if len(items) == 1 and ("/" in lines[i] or (lines[i].strip().lower() in valid_times and lines[i].strip() != time)):
                     append = False
                 if append:
                     if len(items) == 2:
@@ -43,7 +43,7 @@ def get_url_data(place, date, time):
             lines = f.readlines()
             for i in range(0, len(lines)):
                 items = lines[i].split()
-                if len(items) == 1 and lines[i].strip() in valid_times and lines[i].strip() != time:
+                if len(items) == 1 and ("/" in lines[i] or (lines[i].strip().lower() in valid_times and lines[i].strip() != time)):
                     append = False
                 if append:
                     results += " ".join(items[0: len(items) - 1]) + ", Calories: %d" %int(items[len(items) - 1]) + "\n"

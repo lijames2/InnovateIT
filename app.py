@@ -55,18 +55,15 @@ def get_message():
 #Return the available data based on query
 def get_message(message):
     output = message.split()
-    print output
     if len(output) < 3:
         return "Not enough arguments"
     else:
         place = ""
         for i in range(0, len(output) - 2):
             place += output[i] + " "
-        print place.strip()
-        print output[len(output) - 1]
-        return get_url_data(place.strip(), output[len(output)- 2], output[len(output) - 1])
-    #response = get_url_data(output)
-    #return response
+        result = get_url_data(place.strip(), output[len(output)- 2], output[len(output) - 1])
+        #print result
+        return result
 
 #uses PyMessenger to send response to user
 def send_message(recipient_id, response):

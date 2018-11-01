@@ -1,0 +1,176 @@
+03/03/2018
+Brunch
+Cheerios 110
+Froot Loops Cereal 110
+Special K 120
+Frosted Flakes 150
+Apple Jacks Cereal 110
+Rice Chex Cereal 100
+Honey 60
+Grape Jelly 60
+Cubed Pineapple 20
+Cubed Watermelon 10
+Cubed Cantaloupe 15
+Cubed Honeydew Melon 15
+Low Fat Plain Yogurt 80
+Low Fat Vanilla Yogurt 100
+Low Fat Strawberry Yogurt 110
+Whole Milk Greek Plain Yogurt 70
+Hard Boiled Egg 70
+Homemade Granola 210
+Scrambled Eggs 190
+Scrambled Egg Whites 60
+Vegetable Frittata 230
+French Toast Sticks 340
+Tater Tots 170
+Sausage Link 140
+Turkey Sausage Patty 50
+Spiced Honey Glazed Spiral Ham 310
+Chicken Tikka Masala 390
+Basmati Rice 110
+Naan Bread 150
+Curried Roasted Vegetables 30
+Hamburger on Bun 300
+Cheeseburger 350
+Turkey Burger 380
+Garden Burger 370
+Grilled Chicken Sandwich 310
+Grilled Cheese 250
+Beef Hot Dog 400
+French Fries 120
+Baja Pork with Green Rice 440
+Penne a la Vodka 160
+Cheese Pizza 370
+Pepperoni Pizza 410
+Cajun Chicken Pasta 440
+Egg and Sausage Pizza 760
+Dinner
+Italian Sausage with Green Peppers 310
+Mushroom Risotto 480
+Penne, Arrabbiata, Mushrooms 550
+Broccoli Rabe with Garlic 30
+Mexican Fajita Tofu Kebabs 240
+Italian Green Beans 40
+Roasted Acorn Squash 70
+Roasted Brussels Sprouts 70
+Couscous 110
+Roasted Garlic Marinara Sauce 5
+Sliced Genoa Salami 190
+Sliced Ham 200
+Sliced Roasted Turkey Breast 60
+Sliced American Cheese 100
+Sliced Swiss Cheese 110
+Egg Salad 100
+Chicken Salad 100
+Fresh Sliced Tomatoes 0
+Fresh Lettuce Leaf 0
+Kaiser Roll 220
+Rye Bread 220
+White Bread 160
+Whole Wheat Bread 150
+Creamy Caesar Dressing 110
+Russian Western Dressing 120
+Yellow Mustard 20
+Just Mayo 190
+Turkey Super Sub 340
+Ranch Chicken Sandwich 260
+Hawaiian Ham & Cheese Sliders 190
+Curried Vegetable, Kale, WW Wrap 230
+Hamburger on Bun 300
+Cheeseburger 350
+Turkey Burger 380
+Garden Burger 370
+Grilled Chicken Sandwich 310
+Grilled Cheese 250
+Beef Hot Dog 400
+French Fries 120
+Pork Quesadilla 910
+Taco Seasoned Fries 130
+Cajun Chicken 220
+Brown Rice and Lentils 210
+Penne a la Vodka 160
+Cheese Pizza 370
+Pepperoni Pizza 410
+Cheesy Chicken Tortellini Bake 590
+Pesto Chicken Pizza 530
+Spring Mix Lettuce 0
+Fresh Chopped Romaine Lettuce 0
+Fresh Grape Tomatoes 5
+Fresh Thin Sliced Cucumber 0
+Fresh Grated Carrots 10
+Fresh Sliced Red Bell Pepper 10
+Fresh Sliced Cremini Mushrooms 5
+Black Beans 25
+Dark Red Kidney Beans 35
+Fresh Sliced Red Onion 10
+Sliced Black Olives 35
+Fresh Broccoli Florets 10
+Blue Cheese Crumbles Dressing 60
+Shredded Sharp Cheddar Cheese 60
+Lemon Herb Grilled Tofu 640
+Buffalo Chicken 270
+BBQ Chicken 140
+Diced Ham 45
+Grilled Chicken 330
+Italian Dressing 50
+Balsamic Vinaigrette 80
+French Dressing 130
+Ranch Dressing 110
+Midnight
+Sliced Genoa Salami 190
+Sliced Ham 200
+Sliced Roasted Turkey Breast 60
+Sliced American Cheese 100
+Sliced Swiss Cheese 110
+Egg Salad 100
+Chicken Salad 100
+Fresh Sliced Tomatoes 0
+Fresh Lettuce Leaf 0
+Kaiser Roll 220
+Rye Bread 220
+White Bread 160
+Whole Wheat Bread 150
+Creamy Caesar Dressing 110
+Russian Western Dressing 120
+Yellow Mustard 20
+Just Mayo 190
+Hamburger on Bun 300
+Cheeseburger 350
+Garden Burger 370
+Grilled Chicken Sandwich 310
+Beef Hot Dog 400
+French Fries 120
+Penne a la Vodka 160
+Cheese Pizza 370
+Pepperoni Pizza 410
+Chicken Fajita 410
+Spanish Rice 240
+Flour Tortilla 90
+Fresh Tomato Salsa 15
+Shredded Cheddar Cheese 30
+Quinoa, Zucchini, and Sweet Potato 460
+Italian Green Beans 40
+Roasted Acorn Squash 70
+Roasted Brussels Sprouts 70
+Couscous 110
+Roasted Garlic Marinara Sauce 5
+Spring Mix Lettuce 0
+Fresh Chopped Romaine Lettuce 0
+Fresh Grape Tomatoes 5
+Fresh Thin Sliced Cucumber 0
+Fresh Grated Carrots 10
+Fresh Sliced Red Bell Pepper 10
+Fresh Sliced Cremini Mushrooms 5
+Black Beans 25
+Dark Red Kidney Beans 35
+Fresh Sliced Red Onion 10
+Sliced Black Olives 35
+Fresh Broccoli Florets 10
+Blue Cheese Crumbles Dressing 60
+Shredded Sharp Cheddar Cheese 60
+Lemon Herb Grilled Tofu 640
+Grilled Chicken 330
+Italian Dressing 50
+Balsamic Vinaigrette 80
+French Dressing 130
+Ranch Dressing 110
